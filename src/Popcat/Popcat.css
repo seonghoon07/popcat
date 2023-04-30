@@ -1,0 +1,13 @@
+.popcat-img {
+  margin-left: 30%;
+  margin-top: 2%;
+}
+
+.popcat-img img {
+  width: 600px;
+  height: auto;
+}
+
+.count {
+  text-align: center;
+}
